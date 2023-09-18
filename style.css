@@ -67,6 +67,29 @@ table {
     
 }
 
+.col-1-2 {
+	width: 50%;
+}
+.col-1-2 {
+  display: inline-block;
+  vertical-align: top;
+}
+.grid,
+.col-1-2 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.container,
+.grid {
+  margin: 0 auto;
+  width: 960px;
+}
+.container {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 /* Clearfix */
 
 .group:before,
