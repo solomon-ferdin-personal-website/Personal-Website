@@ -227,3 +227,16 @@ h5 {
 .col-2-3 {
   width: 66.66%;
 }
+
+#title {
+  position: absolute;
+  z-index: 100;
+  color: white;
+  margin: 90px 0px 0px 350px;
+  font-size: 48px
+}
+
+/* BLOG01 */
+
+#blogarticle 
+  p {color: #535354}
